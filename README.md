@@ -1,6 +1,6 @@
 # PROJETO PIXEL ART
 
-#### Este foi o meu primeiro projeto na **Trybe**, Ele tem como objetivo mostrar meu conhecimento em **HTML**, **manipulação DOM** e **Javascript** e claro, não podemos esquecer do **css**.
+#### Este foi o meu primeiro projeto na **Trybe**, Ele tem como objetivo mostrar meu conhecimento em **HTML**, **manipulação DOM**,  **Javascript** e claro, não podemos esquecer do **css**.
 ---
 <br>
 
