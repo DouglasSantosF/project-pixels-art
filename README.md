@@ -26,7 +26,7 @@
 Neste projeto, temos 4 opções de cores para o usuário escolher, sendo a cor preta fixa, e as outras três randômicas. 
 <br> Temos tambem uma área formada por blocos, onde podemos pintar. Ao selecionar uma cor o usuário deve clicar em um bloco e ele será preenchido pela cor selecionada. <br>
 
-Também temos uma caixa de entrada numérica onde o usuário pode escolher o tamanho da área de desenho. Por padrão a árra começa com o tamanho 5x5, se o usuário por 8, e clicar no botão ao lado a área vai mudar para 8x8.<br><br>  O tamanho mínimo permitido é 5. Caso o usuário ponha um número a baixo de 5, uma mensagem de erro é exibida na tela e automaticamente a área vai para 5x5.  <br><br> O tamanho máximo permitido é 50x50, caso o usuário coloque um número a cima de 50, uma mensagem de erro é exibida e automaticamente a área vai para 50x50. <br>
+Também temos uma caixa de entrada numérica onde o usuário pode escolher o tamanho da área de desenho. Por padrão a área começa com o tamanho 5x5, se o usuário por 8, e clicar no botão ao lado a área vai mudar para 8x8.<br><br>  O tamanho mínimo permitido é 5. Caso o usuário ponha um número a baixo de 5, uma mensagem de erro é exibida na tela e automaticamente a área vai para 5x5.  <br><br> O tamanho máximo permitido é 50x50, caso o usuário coloque um número a cima de 50, uma mensagem de erro é exibida e automaticamente a área vai para 50x50. <br>
 Também temos um botão de limpar a tela, que volta toda a tela para a cor branca.
 <br>
 <br>
