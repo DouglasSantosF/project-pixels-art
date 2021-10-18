@@ -3,20 +3,16 @@
 #### Este foi o meu primeiro projeto na **Trybe**, Ele tem como objetivo mostrar meu conhecimento em **HTML**, **manipulação DOM** e **Javascript** e claro, não podemos esquecer do **css**.
 ---
 <br>
-<br>
 
 ### **Tecnologias utilizadas**
 ---
 ---
 
-</br>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 
-
-<br>
-<br>
 
 
 ---
