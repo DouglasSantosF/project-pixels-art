@@ -35,7 +35,7 @@ Também temos um botão de limpar a tela, que volta toda a tela para a cor branc
 ---
 ## Aqui a baixo podemos ver uma pequena simulação de como funciona
 <br>
-<img src="./art-with-pixels.gif">
+<img src="./art-with-pixels.gif" width="400px>
 
 
 ---
